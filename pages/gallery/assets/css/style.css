@@ -5,10 +5,14 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Rubik", sans-serif;
-  color: white;
-  background-color: rgb(20, 20, 20);
 }
 
+/* Hero section */
+.hero-section {
+  height: 100vh;
+  background: url("hero-bg.jpg") center no-repeat;
+  background-size: cover;
+}
 /* Nav */
 nav {
   height: 70px;
@@ -62,10 +66,4 @@ nav a:hover::after {
 
 body, html {
   height: 100%;
-}
-
-.contactContent {
-  color: white;
-  justify-content: center;
-  align-items: center;
 }
