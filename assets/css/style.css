@@ -68,6 +68,8 @@ body, html {
   height: 100%;
 }
 
+/* Image Background */
+
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://c4.wallpaperflare.com/wallpaper/369/371/676/1920x1080-px-black-panda-the-godfather-abstract-photography-hd-art-wallpaper-preview.jpg);
   height: 50%;
