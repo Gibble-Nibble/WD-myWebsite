@@ -33,9 +33,6 @@
       <a href="#overview">Overview</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
-        </li>
-        <li>
           <a href="#technology">Technology</a>
         </li>
       </ol>
@@ -57,8 +54,7 @@
 A resume
 
 
-### Key Components
-<!-- TODO: List of Key Components -->
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -66,10 +62,7 @@ A resume
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Rules and Principles
-1. Cheese
-2. Cheese
-3. Cheese
-
+I forgor
 ```
 WD-ProjectName
 └─ assets
