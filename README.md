@@ -54,13 +54,8 @@
 ## Overview
 
 <!-- TODO: To be changed -->
-CheeseCheeseCheeseCheeseCheeseCheeseCheese Cheese CheeseCheese Cheese CheeseCheeseCheeseCheeseCheeseCheeseCheese
+A resume
 
-Guiding Question:
-- Cheese
-- CheeseCheese
-- CheeseCheeseCheese
-- CheeseCheeseCheeseCheese
 
 ### Key Components
 <!-- TODO: List of Key Components -->
