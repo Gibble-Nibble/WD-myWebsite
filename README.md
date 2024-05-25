@@ -7,11 +7,11 @@
 <a href="https://app.daily.dev/gibblenibble"><img src="https://api.daily.dev/devcards/v2/mKMYGKMhZ0JA9QE1zj7I0.png?type=wide&r=y8t" width="652" alt="Wim's Dev Card"/></a>
 
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Ditto</h3>
+  <h3 align="center">My Website</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  iwtkms
+  Resume
 </div>
 
 <br />
