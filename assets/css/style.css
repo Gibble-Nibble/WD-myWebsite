@@ -31,11 +31,12 @@ nav {
   align-items: center;
   position: sticky;
   top: 0;
+  z-index: 3;
 }
 
 .nav-items,
 .overview,
-.account {
+.settings {
   display: flex;
 }
 .overview {
@@ -51,6 +52,7 @@ nav {
 nav li {
   list-style: none;
   margin: 0 0.5rem;
+  margin-top: 17px;
 }
 nav a {
   text-decoration: none;
@@ -75,6 +77,48 @@ body, html {
   height: 100%;
 }
 
+/* Dropdown Button */
+.dropbtn {
+  background-color: rgb(20, 20, 20);
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.settings {
+  display: inline-block;
+  margin-right: 33px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgb(20, 20, 20);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: rgb(255, 255, 255);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  z-index: 1;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: rgb(20, 20, 20);}
+
+/* Show the dropdown menu on hover */
+.settings:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.settings:hover .dropbtn {background-color: rgb(20, 20, 20);}
 
 
 /* Image Background */
